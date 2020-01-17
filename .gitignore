@@ -1,0 +1,57 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/.gitignore
+.idea/compiler.xml
+.idea/dataSources.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/sqldialects.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+nacos-spring-boot/nacos-spring-boot-config-demo/target/
+nacos-spring-boot/nacos-spring-boot-config-mysql-demo/nacos-spring-boot-config-mysql-demo.iml
+nacos-spring-boot/nacos-spring-boot-config-mysql-demo/src/test/
+nacos-spring-boot/nacos-spring-boot-config-mysql-demo/target/
+nacos-spring-boot/nacos-spring-boot-discovery-demo/nacos-spring-boot-discovery-demo.iml
+nacos-spring-boot/nacos-spring-boot-discovery-demo/src/test/
+nacos-spring-boot/nacos-spring-boot-discovery-demo/target/
+nacos-spring-boot/nacos-spring-boot.iml
+nacos-spring-cloud/nacos-spring-cloud-config-demo/src/test/
+nacos-spring-cloud/nacos-spring-cloud-config-demo/target/
+nacos-spring-cloud/nacos-spring-cloud-config-multi-data-ids-demo/src/test/
+nacos-spring-cloud/nacos-spring-cloud-config-multi-data-ids-demo/target/
+nacos-spring-cloud/nacos-spring-cloud-discovery-demo/nacos-spring-cloud-consumer/nacos-spring-cloud-consumer.iml
+nacos-spring-cloud/nacos-spring-cloud-discovery-demo/nacos-spring-cloud-consumer/target/
+nacos-spring-cloud/nacos-spring-cloud-discovery-demo/nacos-spring-cloud-provider/nacos-spring-cloud-provider.iml
+nacos-spring-cloud/nacos-spring-cloud-discovery-demo/nacos-spring-cloud-provider/src/test/
+nacos-spring-cloud/nacos-spring-cloud-discovery-demo/nacos-spring-cloud-provider/target/
+nacos-spring/nacos-spring-config-datasource-demo/nacos-spring-config-datasource-demo.iml
+nacos-spring/nacos-spring-config-datasource-demo/src/test/
+nacos-spring/nacos-spring-config-datasource-demo/target/
+nacos-spring/nacos-spring-config-demo/nacos-spring-config-demo.iml
+nacos-spring/nacos-spring-config-demo/target/
+nacos-spring/nacos-spring-config-listener-demo/nacos-spring-config-listener-demo.iml
+nacos-spring/nacos-spring-config-listener-demo/src/
+nacos-spring/nacos-spring-config-pojo-demo/nacos-spring-config-pojo-demo.iml
+nacos-spring/nacos-spring-config-pojo-demo/src/
+nacos-spring/nacos-spring-discovery-demo/nacos-spring-discovery-demo.iml
+nacos-spring/nacos-spring-discovery-demo/src/main/java/
+nacos-spring/nacos-spring-discovery-demo/src/test/
+nacos-spring/nacos-spring.iml
+nacos-spring/nacos-spring-config-listener-demo/target/generated-sources/
+nacos-spring/nacos-spring-config-listener-demo/target/generated-test-sources/
+nacos-spring/nacos-spring-config-listener-demo/target/tmp/
+nacos-spring/nacos-spring-config-pojo-demo/target/generated-sources/
+nacos-spring/nacos-spring-config-pojo-demo/target/generated-test-sources/
+nacos-spring/nacos-spring-config-pojo-demo/target/tmp/
+nacos-spring/nacos-spring-discovery-demo/target/generated-sources/
+nacos-spring/nacos-spring-discovery-demo/target/generated-test-sources/
+nacos-spring/nacos-spring-discovery-demo/target/tmp/

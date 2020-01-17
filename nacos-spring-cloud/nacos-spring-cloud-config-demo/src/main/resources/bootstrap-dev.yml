@@ -1,0 +1,32 @@
+#spring 配置
+spring:
+  # 应用名
+  application:
+    name: zh-filemanager
+  cloud:
+    # 注册及配置中心
+    nacos:
+      config:
+        # 配置中心地址、格式，指定配置的后缀，支持 properties、yaml、yml，默认为 properties
+        # Data ID：example.properties
+        # Group：DEFAULT_GROUP
+        # 关于配置中心，目前采用namespace区分环境配置，需要在启动参数指明实际的spring.cloud.nacos.config.namespace，注意其值为ID
+        server-addr: 127.0.0.1:8848
+        file-extension: yml
+      discovery:
+        # 注册中心地址
+        server-addr: ${spring.cloud.nacos.config.server-addr}
+
+
+
+#app:
+#  id: 1
+#  app: i am app
+#
+#datasource:
+#  id: 2
+#  datasource: i am datasource
+#
+#redis:
+#  id:3
+#  redis: i am redis
